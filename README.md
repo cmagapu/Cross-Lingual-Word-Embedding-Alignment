@@ -36,7 +36,7 @@ The notebook will automatically download the following files if not present:
 
 ```
 project_directory/
-├── notebook.ipynb             # Main notebook (run this)
+├── Sarvam Assignment.ipynb    # Main notebook (run this)
 ├── cc.en.300.bin              # (downloaded automatically)
 ├── cc.hi.300.bin              # (downloaded automatically)
 ├── en-hi.txt / hi-en.txt      # (downloaded automatically)
@@ -55,7 +55,7 @@ If you're running offline, make sure these files are already in the directory.
 jupyter notebook
 ```
 
-3. Open `notebook.ipynb` and run all cells in order.
+3. Open `Sarvam Assignment.ipynb` and run all cells in order.
 
 ---
 
